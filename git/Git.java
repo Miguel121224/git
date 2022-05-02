@@ -16,6 +16,10 @@ public class Git {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("hola:3");
+        System.out.println("ya comio:3");
+        System.out.println("hola2:3");
+        System.out.println("holaaaaaa");
+        
     }
     
 }
